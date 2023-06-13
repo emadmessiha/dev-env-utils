@@ -1,3 +1,4 @@
-# dev-env-utils
+# Developer Environment Utilities
+## dev-env-utils
 
-Some helpful code snippets for setting up dev environments quicker
+Some helpful code snippets and files for setting up dev environments quicker
