@@ -1,2 +1,3 @@
 # dev-env-utils
-Some code snippets for setting up dev environments quickly
+
+Some helpful code snippets for setting up dev environments quicker
